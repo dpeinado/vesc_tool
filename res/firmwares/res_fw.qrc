@@ -1,0 +1,8 @@
+
+<RCC>
+   <qresource prefix="/res/firmwares/">
+        <file>60/VESC_default.bin</file>
+        <file>60_mooevo/VESC_default.bin</file>
+   </qresource>
+</RCC>
+
